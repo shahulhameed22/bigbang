@@ -1,0 +1,11 @@
+a{
+    cursor: pointer;
+}
+.posi{
+    position:sticky;
+    top: 0;
+    z-index: 99;
+}
+.iconcustom{
+    color: #242B64;
+}

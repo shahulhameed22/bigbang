@@ -1,0 +1,13 @@
+a{
+    color: white;
+}
+iframe{
+    border: none;
+}
+.row{
+    margin-right: 0!important;
+    margin-left: 0!important;
+}
+.footer{
+    background-color: gray;
+}

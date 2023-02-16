@@ -1,0 +1,24 @@
+.borderradius{
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+}
+.justif{
+    margin-left: auto;
+    margin-right: auto;
+    gap: 3vw;
+}
+.testimonial{
+    font-size: 10px;
+}
+.siz{
+    width: 50px;
+    
+}
+.scimg {
+    animation: scroll-right-to-left 10s linear infinite;
+  }
+  @keyframes scroll-right-to-left {
+    from { transform: translateX(0); }
+    to { transform: translateX(-200%); }
+  }
